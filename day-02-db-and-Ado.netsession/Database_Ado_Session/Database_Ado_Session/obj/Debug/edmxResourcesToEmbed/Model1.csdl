@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="day01Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Emp">
+    <Key>
+      <PropertyRef Name="Eid" />
+    </Key>
+    <Property Name="Eid" Type="Int32" Nullable="false" />
+    <Property Name="Ename" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Edeig" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Esalary" Type="Double" />
+    <Property Name="Doj" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="day01Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Emp" EntityType="Self.Emp" />
+  </EntityContainer>
+</Schema>

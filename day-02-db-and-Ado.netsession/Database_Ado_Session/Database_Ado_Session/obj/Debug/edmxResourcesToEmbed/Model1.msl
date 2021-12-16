@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="day01ModelStoreContainer" CdmEntityContainer="day01Entities">
+    <EntitySetMapping Name="Emp">
+      <EntityTypeMapping TypeName="day01Model.Emp">
+        <MappingFragment StoreEntitySet="Emp">
+          <ScalarProperty Name="Eid" ColumnName="Eid" />
+          <ScalarProperty Name="Ename" ColumnName="Ename" />
+          <ScalarProperty Name="Edeig" ColumnName="Edeig" />
+          <ScalarProperty Name="Esalary" ColumnName="Esalary" />
+          <ScalarProperty Name="Doj" ColumnName="Doj" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,12 @@
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\bin\Debug\Database_Ado_Session.exe.config
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\bin\Debug\Database_Ado_Session.exe
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\bin\Debug\Database_Ado_Session.pdb
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\bin\Debug\EntityFramework.dll
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\bin\Debug\EntityFramework.SqlServer.dll
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\bin\Debug\EntityFramework.xml
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\bin\Debug\EntityFramework.SqlServer.xml
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\obj\Debug\Database_Ado_Session.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\obj\Debug\Database_Ado_Session.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\obj\Debug\Database_Ado_Session.csproj.CopyComplete
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\obj\Debug\Database_Ado_Session.exe
+F:\dotnet\Coforge\day-02-db-and-Ado.netsession\Database_Ado_Session\Database_Ado_Session\obj\Debug\Database_Ado_Session.pdb

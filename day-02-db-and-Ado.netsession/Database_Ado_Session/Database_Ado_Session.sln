@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database_Ado_Session", "Database_Ado_Session\Database_Ado_Session.csproj", "{064CE4E3-6B6F-4D80-9139-5536D234BDC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{064CE4E3-6B6F-4D80-9139-5536D234BDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064CE4E3-6B6F-4D80-9139-5536D234BDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064CE4E3-6B6F-4D80-9139-5536D234BDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064CE4E3-6B6F-4D80-9139-5536D234BDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07F7DB6-80E5-40EB-917A-06D263D0FD8B}
+	EndGlobalSection
+EndGlobal

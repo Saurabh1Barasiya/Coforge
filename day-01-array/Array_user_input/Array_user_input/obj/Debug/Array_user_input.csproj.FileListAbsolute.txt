@@ -1,0 +1,6 @@
+G:\DOTNET PROG\youtube\day-01-array\Array_user_input\Array_user_input\bin\Debug\Array_user_input.exe.config
+G:\DOTNET PROG\youtube\day-01-array\Array_user_input\Array_user_input\bin\Debug\Array_user_input.exe
+G:\DOTNET PROG\youtube\day-01-array\Array_user_input\Array_user_input\bin\Debug\Array_user_input.pdb
+G:\DOTNET PROG\youtube\day-01-array\Array_user_input\Array_user_input\obj\Debug\Array_user_input.csproj.CoreCompileInputs.cache
+G:\DOTNET PROG\youtube\day-01-array\Array_user_input\Array_user_input\obj\Debug\Array_user_input.exe
+G:\DOTNET PROG\youtube\day-01-array\Array_user_input\Array_user_input\obj\Debug\Array_user_input.pdb

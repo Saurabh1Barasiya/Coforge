@@ -1,0 +1,7 @@
+G:\DOTNET PROG\youtube\day-01-array\Jaccked_array\Jaccked_array\bin\Debug\Jaccked_array.exe.config
+G:\DOTNET PROG\youtube\day-01-array\Jaccked_array\Jaccked_array\bin\Debug\Jaccked_array.exe
+G:\DOTNET PROG\youtube\day-01-array\Jaccked_array\Jaccked_array\bin\Debug\Jaccked_array.pdb
+G:\DOTNET PROG\youtube\day-01-array\Jaccked_array\Jaccked_array\obj\Debug\Jaccked_array.csproj.AssemblyReference.cache
+G:\DOTNET PROG\youtube\day-01-array\Jaccked_array\Jaccked_array\obj\Debug\Jaccked_array.csproj.CoreCompileInputs.cache
+G:\DOTNET PROG\youtube\day-01-array\Jaccked_array\Jaccked_array\obj\Debug\Jaccked_array.exe
+G:\DOTNET PROG\youtube\day-01-array\Jaccked_array\Jaccked_array\obj\Debug\Jaccked_array.pdb

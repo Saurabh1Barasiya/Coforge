@@ -1,0 +1,7 @@
+G:\DOTNET PROG\youtube\day-01-array\array\array\bin\Debug\array.exe.config
+G:\DOTNET PROG\youtube\day-01-array\array\array\bin\Debug\array.exe
+G:\DOTNET PROG\youtube\day-01-array\array\array\bin\Debug\array.pdb
+G:\DOTNET PROG\youtube\day-01-array\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+G:\DOTNET PROG\youtube\day-01-array\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+G:\DOTNET PROG\youtube\day-01-array\array\array\obj\Debug\array.exe
+G:\DOTNET PROG\youtube\day-01-array\array\array\obj\Debug\array.pdb

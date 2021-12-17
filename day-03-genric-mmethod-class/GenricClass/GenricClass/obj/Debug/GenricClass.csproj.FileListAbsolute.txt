@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-03-genric-mmethod-class\GenricClass\GenricClass\bin\Debug\GenricClass.exe.config
+F:\dotnet\Coforge\day-03-genric-mmethod-class\GenricClass\GenricClass\bin\Debug\GenricClass.exe
+F:\dotnet\Coforge\day-03-genric-mmethod-class\GenricClass\GenricClass\bin\Debug\GenricClass.pdb
+F:\dotnet\Coforge\day-03-genric-mmethod-class\GenricClass\GenricClass\obj\Debug\GenricClass.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-03-genric-mmethod-class\GenricClass\GenricClass\obj\Debug\GenricClass.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-03-genric-mmethod-class\GenricClass\GenricClass\obj\Debug\GenricClass.exe
+F:\dotnet\Coforge\day-03-genric-mmethod-class\GenricClass\GenricClass\obj\Debug\GenricClass.pdb

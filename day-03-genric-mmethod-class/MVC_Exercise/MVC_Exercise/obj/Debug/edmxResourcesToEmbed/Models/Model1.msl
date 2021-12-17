@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ExerciseDbModelStoreContainer" CdmEntityContainer="ExerciseDbEntities">
+    <EntitySetMapping Name="Results">
+      <EntityTypeMapping TypeName="ExerciseDbModel.Result">
+        <MappingFragment StoreEntitySet="Result">
+          <ScalarProperty Name="Sid" ColumnName="Sid" />
+          <ScalarProperty Name="Sresult" ColumnName="Sresult" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="ExerciseDbModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="Sid" ColumnName="Sid" />
+          <ScalarProperty Name="Sname" ColumnName="Sname" />
+          <ScalarProperty Name="Semail" ColumnName="Semail" />
+          <ScalarProperty Name="Scontact" ColumnName="Scontact" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

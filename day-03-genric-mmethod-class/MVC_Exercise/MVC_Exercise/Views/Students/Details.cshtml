@@ -1,0 +1,50 @@
+﻿@model MVC_Exercise.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Sname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Semail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Semail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Scontact)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Scontact)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Result.Sresult)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Result.Sresult)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Sid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-04-Collection\ollection Hashtable\ollection Hashtable\bin\Debug\ollection Hashtable.exe.config
+F:\dotnet\Coforge\day-04-Collection\ollection Hashtable\ollection Hashtable\bin\Debug\ollection Hashtable.exe
+F:\dotnet\Coforge\day-04-Collection\ollection Hashtable\ollection Hashtable\bin\Debug\ollection Hashtable.pdb
+F:\dotnet\Coforge\day-04-Collection\ollection Hashtable\ollection Hashtable\obj\Debug\ollection Hashtable.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-04-Collection\ollection Hashtable\ollection Hashtable\obj\Debug\ollection Hashtable.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-04-Collection\ollection Hashtable\ollection Hashtable\obj\Debug\ollection Hashtable.exe
+F:\dotnet\Coforge\day-04-Collection\ollection Hashtable\ollection Hashtable\obj\Debug\ollection Hashtable.pdb

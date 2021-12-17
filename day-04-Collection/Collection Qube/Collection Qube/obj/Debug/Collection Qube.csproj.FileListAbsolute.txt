@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-04-Collection\Collection Qube\Collection Qube\bin\Debug\Collection Qube.exe.config
+F:\dotnet\Coforge\day-04-Collection\Collection Qube\Collection Qube\bin\Debug\Collection Qube.exe
+F:\dotnet\Coforge\day-04-Collection\Collection Qube\Collection Qube\bin\Debug\Collection Qube.pdb
+F:\dotnet\Coforge\day-04-Collection\Collection Qube\Collection Qube\obj\Debug\Collection Qube.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-04-Collection\Collection Qube\Collection Qube\obj\Debug\Collection Qube.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-04-Collection\Collection Qube\Collection Qube\obj\Debug\Collection Qube.exe
+F:\dotnet\Coforge\day-04-Collection\Collection Qube\Collection Qube\obj\Debug\Collection Qube.pdb

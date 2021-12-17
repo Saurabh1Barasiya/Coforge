@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-04-Collection\Collection Stack\Collection Stack\bin\Debug\Collection Stack.exe.config
+F:\dotnet\Coforge\day-04-Collection\Collection Stack\Collection Stack\bin\Debug\Collection Stack.exe
+F:\dotnet\Coforge\day-04-Collection\Collection Stack\Collection Stack\bin\Debug\Collection Stack.pdb
+F:\dotnet\Coforge\day-04-Collection\Collection Stack\Collection Stack\obj\Debug\Collection Stack.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-04-Collection\Collection Stack\Collection Stack\obj\Debug\Collection Stack.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-04-Collection\Collection Stack\Collection Stack\obj\Debug\Collection Stack.exe
+F:\dotnet\Coforge\day-04-Collection\Collection Stack\Collection Stack\obj\Debug\Collection Stack.pdb

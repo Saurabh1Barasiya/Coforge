@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-04-Collection\Collection ArrayList\Collection ArrayList\bin\Debug\Collection ArrayList.exe.config
+F:\dotnet\Coforge\day-04-Collection\Collection ArrayList\Collection ArrayList\bin\Debug\Collection ArrayList.exe
+F:\dotnet\Coforge\day-04-Collection\Collection ArrayList\Collection ArrayList\bin\Debug\Collection ArrayList.pdb
+F:\dotnet\Coforge\day-04-Collection\Collection ArrayList\Collection ArrayList\obj\Debug\Collection ArrayList.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-04-Collection\Collection ArrayList\Collection ArrayList\obj\Debug\Collection ArrayList.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-04-Collection\Collection ArrayList\Collection ArrayList\obj\Debug\Collection ArrayList.exe
+F:\dotnet\Coforge\day-04-Collection\Collection ArrayList\Collection ArrayList\obj\Debug\Collection ArrayList.pdb

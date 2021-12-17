@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection_Array_list_Genric\Collection_Array_list_Genric\bin\Debug\Collection_Array_list_Genric.exe.config
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection_Array_list_Genric\Collection_Array_list_Genric\bin\Debug\Collection_Array_list_Genric.exe
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection_Array_list_Genric\Collection_Array_list_Genric\bin\Debug\Collection_Array_list_Genric.pdb
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection_Array_list_Genric\Collection_Array_list_Genric\obj\Debug\Collection_Array_list_Genric.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection_Array_list_Genric\Collection_Array_list_Genric\obj\Debug\Collection_Array_list_Genric.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection_Array_list_Genric\Collection_Array_list_Genric\obj\Debug\Collection_Array_list_Genric.exe
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection_Array_list_Genric\Collection_Array_list_Genric\obj\Debug\Collection_Array_list_Genric.pdb

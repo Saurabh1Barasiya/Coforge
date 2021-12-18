@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-05-Collection-Genric\Dictionary_with_Employee\Dictionary_with_Employee\bin\Debug\Dictionary_with_Employee.exe.config
+F:\dotnet\Coforge\day-05-Collection-Genric\Dictionary_with_Employee\Dictionary_with_Employee\bin\Debug\Dictionary_with_Employee.exe
+F:\dotnet\Coforge\day-05-Collection-Genric\Dictionary_with_Employee\Dictionary_with_Employee\bin\Debug\Dictionary_with_Employee.pdb
+F:\dotnet\Coforge\day-05-Collection-Genric\Dictionary_with_Employee\Dictionary_with_Employee\obj\Debug\Dictionary_with_Employee.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-05-Collection-Genric\Dictionary_with_Employee\Dictionary_with_Employee\obj\Debug\Dictionary_with_Employee.exe
+F:\dotnet\Coforge\day-05-Collection-Genric\Dictionary_with_Employee\Dictionary_with_Employee\obj\Debug\Dictionary_with_Employee.pdb
+F:\dotnet\Coforge\day-05-Collection-Genric\Dictionary_with_Employee\Dictionary_with_Employee\obj\Debug\Dictionary_with_Employee.csproj.AssemblyReference.cache

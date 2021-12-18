@@ -1,0 +1,7 @@
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection Dectionary Genric\Collection Dectionary Genric\bin\Debug\Collection Dectionary Genric.exe.config
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection Dectionary Genric\Collection Dectionary Genric\bin\Debug\Collection Dectionary Genric.exe
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection Dectionary Genric\Collection Dectionary Genric\bin\Debug\Collection Dectionary Genric.pdb
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection Dectionary Genric\Collection Dectionary Genric\obj\Debug\Collection Dectionary Genric.csproj.AssemblyReference.cache
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection Dectionary Genric\Collection Dectionary Genric\obj\Debug\Collection Dectionary Genric.csproj.CoreCompileInputs.cache
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection Dectionary Genric\Collection Dectionary Genric\obj\Debug\Collection Dectionary Genric.exe
+F:\dotnet\Coforge\day-05-Collection-Genric\Collection Dectionary Genric\Collection Dectionary Genric\obj\Debug\Collection Dectionary Genric.pdb

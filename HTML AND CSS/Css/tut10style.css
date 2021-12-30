@@ -1,0 +1,48 @@
+header{
+    background-color: #f1f1f1;  
+}
+
+section.my-article{
+    background-color: #f1f1f1;
+    /* padding: 10px; */
+}
+section.my-article1{
+    background-color: #f1f1f1;
+    /* padding: 10px; */
+}
+
+header p {
+    /* Header ke ander jo p h usme ye changes apply kar do. */
+    font-size: 20px;
+    font-weight: bold;
+    color: #c92323;
+    text-align: center;
+    padding-top: 10px;  
+}
+
+
+/* article h2{
+    font-size: 20px;
+    font-weight: bold;
+    color: #14ff0c;
+    padding-left: 20px;
+} */
+
+section.my-article > h2{
+    color:aqua;
+    /* my-article class ke ander jo direct h2 h usme ye property apply kar do . */
+    /* h2 direct child hona chahiye kisi div ke ander nahi hona chahiye. */
+}
+
+footer.low > h2{
+    color:red;
+}
+
+h2+p{
+    color:violet;
+}
+
+ul+p{
+    /* p jiska upar ka elements ul ho uska color change kar do. */
+    color:green;
+}

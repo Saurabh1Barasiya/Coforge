@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+label{
+    color:red;
+    font-size:30px;
+    font-weight:bold;
+}
+
+input[type='text']:focus{
+    color:aqua;
+    border-radius: 10px;
+    margin:20px;
+    padding: 20px;
+    font-size:30px;
+    font-weight:bold;
+}
+
+input[type='password']:focus{
+    background-color: rgb(138, 37, 37);
+    border-radius: 10px;
+    margin:20px;
+    padding: 20px;
+    font-size:30px;
+    font-weight:bold;
+}
+
+input[type='email']{
+    background-color: rgb(184, 163, 163);
+}
+input[type='email']:focus{
+    background-color: rgb(182, 52, 175);
+    border-radius: 10px;
+    margin:20px;
+    padding: 20px;
+    font-size:30px;
+    font-weight:bold;
+}
+
+input[type=submit]:focus{
+    background-color: rgb(138, 37, 37);
+    border-radius: 10px;
+    margin:20px;
+    padding: 20px;
+    font-size:30px;
+    font-weight:bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+
+form{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.link-container{
+    text-align: center;
+    margin-top: 50px;
+}
+
+a[href *='google']{
+    /* a tag ke href me kahi bhi google ho to property apply kar do.*/ 
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    /* text-decoration: none; */
+}
+
+a[href ^='https']{
+    /* a tag ke href starting https ho to property apply kar do.*/ 
+    color: rgb(85, 85, 138);
+    font-size: 30px;
+    font-weight: bold;
+    /* text-decoration: none; */
+}
+
+a[href $= 'r']{
+    /* a tag ke href ending r ho to property apply kar do.*/ 
+    color:darkcyan;
+    font-size: 30px;
+    font-weight: bold;
+}

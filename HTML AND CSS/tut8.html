@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Exercise</title>
+</head>
+
+<body>
+    <form action="" method="post">
+        <input type="text" name="firstName" id="firstName" placeholder="First Name"><br><br>
+        <input type="text" name="lastName" id="lastName" placeholder="Last Name"><br><br>
+        <input type="email" name="email" id="email" placeholder="Email"><br><br>
+        <input type="password" name="password" id="email" placeholder="password"><br><br>
+
+        <label for="gender">Select gender</label> <br><br>
+        Male<input type="radio" name="gender" id="gender" value="male" checked="checked"><br><br>
+        Female<input type="radio" name="gender" id="gender" value="female"><br><br>
+        Oters<input type="radio" name="gender" id="gender" value="others"><br><br>
+
+        <label for="country">Select country</label> <br><br>
+        <select name="country" id="country">
+            <option value="india" selected>india</option>
+            <option value="aus">aus</option>
+            <option value="apk">pak</option>
+        </select><br><br>
+
+        <label for="msg">Write about yourself</label> <br><br>
+
+
+        <!-- name attribute caonatain same value. -->
+        <textarea name="msg" id="msg" cols="30" rows="10" placeholder="type here"></textarea>
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>

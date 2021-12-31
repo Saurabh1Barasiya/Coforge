@@ -30,7 +30,6 @@ namespace WebApplication1.Controllers
             {
                 v.Msg = "Number is Odd";
             }
-         
             return View(v);
         }
 

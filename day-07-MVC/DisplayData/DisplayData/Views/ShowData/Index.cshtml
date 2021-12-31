@@ -1,0 +1,41 @@
+﻿@using DisplayData.Models;
+<htm>
+<head>
+    <title>Student data</title>
+    <style>
+        .container{
+            width:70%;
+            margin:0px auto;
+            text-align:center;
+        }
+    </style>
+</head>
+
+<body>
+    @{
+    var s = (Student)ViewData["StudentData"];
+    }
+    <div class="container">
+        <h1>Student data</h1>
+
+        <table border="1">
+            <tr>
+                <td>ID</td>
+                <td>@s.Sid</td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td>@s.Sname</td>
+            </tr>
+            <tr>
+                <td>City</td>
+                <td>@s.Scity</td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td>@s.Saddress</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</htm>

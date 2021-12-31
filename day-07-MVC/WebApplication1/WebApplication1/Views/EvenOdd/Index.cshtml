@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+@model WebApplication1.Models.EvenOdd
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Even Odd checker application.</h1>
+        <form action="/EvenOdd/Index" method="post">
+            <input type="text" name="a" placeholder="Enter number" />
+            <input type="submit" value="Check" />
+        </form>
+    </div>
+    <h4>Result is  </h4> 
+    @Model.Msg
+</body>
+</html>

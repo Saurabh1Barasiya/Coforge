@@ -1,0 +1,36 @@
+﻿@model IEnumerable <CodeFirstApproch.CustoerDetail>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+
+        <table border="1" width="600">
+            <tr>
+                <th>Cid</th>
+                <th>Cname</th>
+                <th>Cemail</th>
+                <th>Ccity</th>
+            </tr>
+            @foreach (CustoerDetail c in Model)
+            {
+                <tr>
+                    <td>@c.Cid</td>
+                    <td>@c.Cname</td>
+                    <td>@c.Cemail</td>
+                    <td>@c.Ccity</td>
+                </tr>
+            }
+        </table>
+
+    </div>
+</body>
+</html>

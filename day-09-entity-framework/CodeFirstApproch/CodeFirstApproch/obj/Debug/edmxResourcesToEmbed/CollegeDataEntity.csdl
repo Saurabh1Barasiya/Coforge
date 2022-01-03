@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RegistrationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CustoerDetail">
+    <Key>
+      <PropertyRef Name="Cid" />
+    </Key>
+    <Property Name="Cid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cname" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Cemail" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Ccity" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="RegistrationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CustoerDetails" EntityType="Self.CustoerDetail" />
+  </EntityContainer>
+</Schema>

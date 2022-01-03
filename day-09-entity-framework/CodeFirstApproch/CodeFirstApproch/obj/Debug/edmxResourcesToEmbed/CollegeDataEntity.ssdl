@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RegistrationModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Registration.dbo.CustoerDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="CustoerDetails">
+    <Key>
+      <PropertyRef Name="Cid" />
+    </Key>
+    <Property Name="Cid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cname" Type="nvarchar" MaxLength="20" />
+    <Property Name="Cemail" Type="nvarchar" MaxLength="20" />
+    <Property Name="Ccity" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityContainer Name="RegistrationModelStoreContainer">
+    <EntitySet Name="CustoerDetails" EntityType="Self.CustoerDetails" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[CustoerDetails].[Cid] AS [Cid], 
+[CustoerDetails].[Cname] AS [Cname], 
+[CustoerDetails].[Cemail] AS [Cemail], 
+[CustoerDetails].[Ccity] AS [Ccity]
+FROM [dbo].[CustoerDetails] AS [CustoerDetails]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HElperClass_display_data", "HElperClass_display_data\HElperClass_display_data.csproj", "{C0161DF0-92CB-4D1B-BF9A-2918CB5C9DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0161DF0-92CB-4D1B-BF9A-2918CB5C9DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0161DF0-92CB-4D1B-BF9A-2918CB5C9DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0161DF0-92CB-4D1B-BF9A-2918CB5C9DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0161DF0-92CB-4D1B-BF9A-2918CB5C9DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD37580-99F0-4ACF-870B-5BAFA2A20F5A}
+	EndGlobalSection
+EndGlobal

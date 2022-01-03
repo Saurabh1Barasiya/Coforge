@@ -1,0 +1,46 @@
+﻿@model HElperClass_display_data.Models.StuData
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        input[type="text"]:focus{
+            background:yellow;
+            color:black;
+            font-size:20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Example of Helper Class.</h1>
+        @using (Html.BeginForm("Index", "ShowData", FormMethod.Post))
+        {
+            <table border="1" bgcolor="pink">
+
+                <tr> <td>Username</td> <td>@Html.TextBoxFor(m => m.Uname)</td></tr>
+                <tr> <td>city</td> <td>@Html.TextBoxFor(m => m.City)</td> </tr>
+                <tr><td colspan="2"><input type="submit" name="name" /></td> </tr>
+            </table>
+            <hr>
+        }
+
+        @using (Html.BeginForm("Index", "ShowData", FormMethod.Post))
+        {
+            <table border="1" bgcolor="red">
+
+                <tr> <td>Username</td> <td>@Html.DisplayFor(m => m.Uname)</td></tr>
+                <tr> <td>city</td> <td>@Html.DisplayFor(m => m.City)</td> </tr>
+            </table>
+            <hr>
+        }
+
+    </div>
+</body>
+</html>

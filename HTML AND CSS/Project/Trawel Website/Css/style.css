@@ -6,17 +6,267 @@
     box-sizing: border-box;
 }
 
+
+/* ################ HTML ELEMENT Styling ########################## */
+
+html{
+    font-size:62.5%;
+}
+
+
 body{
     font-family: 'Montserrat', sans-serif; 
+    line-height: 1.7;
 /* font-family: 'Poppins', sans-serif;  */
 }
 
+ul li{
+    list-style: none;
+}
+
+a{
+    /* 16 pixel */
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+
+p,li{
+    font-size: 1.6rem;   /* 16 px */ 
+    margin-bottom: 0.5em;  /* 8 px */
+    letter-spacing: 0.15em;
+}
+
+h1,h2,h3{
+    margin-bottom: 0.5em;
+    letter-spacing: 0.15em;
+    font-weight: 500;
+}
+
+
+/* ##################### Utility Classes ############################# */
+
+.container{
+    max-width: 1200px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.lg-heading{
+    font-size: 3.5rem;
+    
+}
+
+.md-heading{
+    font-size: 2.2rem;
+}
+
+.text-red{
+    color:#e63946;
+}
+
+.text-light{
+    color: #f4f4f4;
+}
+
+.text-black{
+    color: #333;
+}
+
+.text-gray{
+    color: #555;
+}
+
+.btn{
+    display: inline-block;
+    padding:0.5em 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0.5em 0;
+}
+
+
+.btn-primary:hover{
+    background:#ddd;
+}
+
+.btn-primary{
+    background-color: #f4f4f4;
+    border-radius: 10em;
+}
+
+.btn-secondary{
+    border: 2px solid #e63946;
+    color:#e63946;
+    border-radius: 1.5em;
+    background: #fff;
+}  
+
+.btn-secondary:hover{
+    background: #fcf2f3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ##################### HEADER STYLING #################*/
+
+
 .header{
+    position: relative;
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/header-image.jpg');
-    border:2px solid green;
+    /* border:2px solid green; */
     height: 95vh;
     background-position: center;
     background-repeat:no-repeat;
     background-size: cover;
  
+}
+
+
+
+.navbar{
+    /* border:2px solid white; */
+}
+
+
+
+.header .navbar .logo{
+    float:left;
+}
+
+.header .navbar .nav-items{
+    float:right;  
+    margin: 1rem;
+}
+
+.header .navbar .nav-item {
+    display: inline-block; 
+    padding:  1rem; 
+    text-transform: uppercase;
+}
+
+.navbar a:link,
+.navbar a:visited{
+    color: #f4f4f4; 
+}
+
+.navbar a{
+    padding:0.3rem;
+}
+
+.navbar a:hover{
+    border-bottom: 1px solid #f4f4f4;
+}
+
+
+.navbar::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* ####################### Header content style ########################## */
+
+.header-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2))
+}
+
+
+/*###################### Section Show Case style ############################# */
+.showcase{
+    background:#ddd;
+    padding:10rem 0; 
+}
+
+.row{
+    height: 350px;
+    /* border:2px solid red; */
+    background: #fff;
+    box-shadow:0px 0px 20px 0px #aaa;
+}
+
+.row1{
+    margin-bottom: 10rem;
+}
+
+.row1 .img-box, .row2 .text-box{
+    float: left;
+    width:50%;
+}
+.row2 .img-box, .row1 .text-box{
+    float: right;
+    width:50%;
+}
+
+.row .img-box{
+    /* border:10px solid rgb(10, 150, 64); */
+    height:100%;
+}
+.row .text-box{
+    /* border:10px solid rgb(175, 219, 13); */
+    padding:3rem;
+    
+}
+
+.row .img-box img {
+    width:100%;
+    height:100%;
+    display: inline-block;
+    object-fit: cover;
+}
+
+.row::after{
+    content:"";
+    display: block;
+    clear: both;
+}
+
+.features{
+   padding:10rem 0;
+}
+
+.box{
+   
+    float:left;
+    width:33.333%;
+    padding:2rem;
+    text-align: center;
+}
+
+.box-1,.box-3{
+    background:#263238;
+    color:#fff;
+}
+
+.box-2{
+    background: linear-gradient(25deg,#d64c7f,#ee4758 50%);
+    color:#fff;
+}
+
+.box-wrapper{
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.295);
+}
+
+.box-wrapper::after{
+    content:"";
+    display: block;
+    clear: both;
 }

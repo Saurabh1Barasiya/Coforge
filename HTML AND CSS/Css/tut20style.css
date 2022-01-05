@@ -1,0 +1,12 @@
+h1::before{
+    content:"hello saurabh";
+    display: block;
+    background:red;
+    color:white;
+}
+p::after{
+    content:"hello saurabh";
+    display: block;
+    background:red;
+    color:white;
+}

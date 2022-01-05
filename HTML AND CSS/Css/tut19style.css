@@ -1,0 +1,29 @@
+/* :not(p){
+ color:blue; */
+ /* p ko chodkar sabka color blue kar do. */
+/* } */
+
+*{
+    box-sizing: border-box;
+}
+
+body :not(p){
+ color:blue;
+ /* p ko chodkar sabka color blue kar do. */
+}
+
+:empty{
+    border:1px solid red;
+    height: 200px;
+    width: 200px;
+    background:black;
+}
+
+:root{
+    background:hotpink
+    /* jyadha specifity */
+}
+
+html{
+    background:honeydew;
+}

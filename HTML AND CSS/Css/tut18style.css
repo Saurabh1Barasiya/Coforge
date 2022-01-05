@@ -1,0 +1,19 @@
+/* p:nth-child(2){
+    color:red;
+    /* if secound child p h to hi red kero. */
+/* } */
+
+p:nth-of-type(2){
+    color:palevioletred;
+    background:red;
+}
+
+::selection{
+    color: white;
+    background:black;
+}
+
+p::first-letter{
+    font-size:30px;
+    font-weight:bold;
+}

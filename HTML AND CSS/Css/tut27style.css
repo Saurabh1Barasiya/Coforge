@@ -1,0 +1,95 @@
+*{
+    /* padding: 0px;
+    margin: 0px; */
+    box-sizing: border-box;
+}
+
+.main{
+    
+   border: 1px solid black;
+   padding:10px;
+   height:500px;
+   position: relative;
+}
+.heading{
+    border: 1px solid red;
+    width:30%; 
+    text-align: center;
+    
+    /* margin: 10px; */
+    /* position: relative; */
+    /* top: 190px;
+    left: 250px;
+    right:10px; */
+    /* bottom: 20px; */
+
+    /* z-index: -1; */
+    /* z-index se  hamari value neeche chali jati h. */
+
+
+    /* position: absolute; */
+    /* top: 0px; */
+    /* right: 0px; */
+    /* bottom: 0px;
+    left: 0px; */
+
+    /* position: absolute;
+    top:50%;
+    left:50%;
+    /* bottom: 150px; */
+    /* transform: translate(-50%,-50%); */ 
+
+
+}
+
+.sec{
+    background-color: black;
+    color:white;
+    /* position:fixed; */
+    /* top : 0px; */
+    /* bottom:0px; */
+    /* so ye document flow sw bahar ho jata h. */
+    /* z-index: 10; */
+
+
+
+
+
+
+    
+}
+
+.foot{
+    border: 1px solid black;
+    background: #582b2b;
+}
+
+
+
+h3{
+    position: sticky;
+    top: 0px;
+    background: #582b2b;
+    color:white;
+}
+
+
+/* by default position static hoti h. */
+
+/* Position relative  --> apni original position ke according work karta h. 
+   HAM isme top left right buttom ki value set kar  sakte h.
+*/
+
+/* position absolute --> ye document se overflow ho jata h.
+ye pure page ko consider karta h.*/
+
+
+/* position fixed --> if kisi item ko fixed rakhna ho to.
+  ye bhi narmal document flow se bahar chala jata h.
+*/
+
+/* so jab bhi app position sticky apply kero to ye normal document me rahega
+
+
+but app us element ko jis par position sticky apply karoge to usko parent ke bahar hi rakhna.
+*/

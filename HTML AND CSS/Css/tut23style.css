@@ -1,0 +1,19 @@
+/* Em haesha apne parent ke font size ke according work karta  h. */
+
+:root{
+    font-size:10px;
+}
+
+.main{
+    font-size:20px;
+}
+
+h1{
+    font-size:3em;
+    border:0.1rem solid red;
+    padding:2em;
+}
+
+p{
+    font-size:3em;
+}

@@ -1,0 +1,14 @@
+p:first-child{
+    color: red;
+    /* apne parent ka first child */
+    /* apne parent ka first tag p hoga to uska color red  kero. */
+}
+
+p:first-of-type{
+    color: green; 
+    /* apne parent ka pahla tag p hoga to uska color green  kero. insted first child other  tag hoga to bhi chalega. */
+}
+
+h2:first-of-type{
+    color:blue;
+}

@@ -1,0 +1,9 @@
+:root{
+    font-size: 10px;
+}
+
+.main{
+    font-size: 3rem;
+    border:1rem solid black;
+    padding-left:4rem;
+}

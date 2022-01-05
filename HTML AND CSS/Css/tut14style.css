@@ -1,0 +1,70 @@
+body{
+    /* background-color: #634949; */
+}
+
+/* a tag inline tag hota h isme ham margin and padding left and right se hi apply kar sakte h*/ 
+
+/*  img inline tag h but ham imgages ke shat sari property apply kae sakte h. */
+
+
+
+.box-1 a{
+    border: 2px solid #030263;
+    /* padding:20px  20px; */
+    /* when we apply padding in top bottom so item oerlap ho rahe h*/
+    /* ham only left and right se hi padding and margin apply kar sakte h.  */
+
+    padding: 0px 30px;
+    margin: 0px 30px;
+
+    height: 500px;
+    width: 500px;
+
+    /* inline tag me height width bhi set nahi hoti h  */
+}
+
+/* div block element hota h. */
+
+div.box-2{
+    border: 3px solid rgb(9, 228, 38);
+    margin:10px 0px;
+    padding:10px 0px;
+} 
+
+div.box-2 a{
+    border: 2px solid #030263;
+    padding: 0px 30px;
+    margin: 0px 40px;
+    height: 500px;
+    width: 500px;
+}
+
+
+/* whwen we apply display = inline-block to sari property apply hoti h */
+
+.box-3{
+    width:60%;
+    margin: 0px auto;
+    border:2px  solid #030263;
+    text-align: center;
+}
+
+.box-3 h4{
+    background-color: #f006f0;
+}
+
+.box-3 a{
+    display: inline-block;
+    border: 2px solid #030263;
+    padding: 40px 30px;
+    margin: 30px 20px;
+}
+
+.box-4 img{
+    border : 2px solid #9fff04;
+    width: 50%;
+    height: 100px;
+}
+
+/* images me if app width set karte h to height autometic adjust ho jati h */
+/* images me if app height set karte h to width autometic adjust ho jati h */

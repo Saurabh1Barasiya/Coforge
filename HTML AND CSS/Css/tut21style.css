@@ -1,0 +1,25 @@
+/* p{ */
+    /* 16px;  =  100% */
+    /* 32px;  =  200% */
+    /* 48px;  =  300% */
+    /* font-size:200%;
+} */
+
+/* we are using percent to give margin and width */
+
+div{
+    font-size:10px;
+    border:1px solid black;
+    width:50%;
+    margin:0px auto;
+}
+
+p{
+    font-size:100%;
+    width:50%;
+    border: 2px  solid #030263;
+    padding-left: 10px;
+    margin: 14px auto;
+    text-align: center;
+    
+}
